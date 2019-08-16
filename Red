@@ -1,0 +1,2 @@
+This is red color.
+Red is danger color
